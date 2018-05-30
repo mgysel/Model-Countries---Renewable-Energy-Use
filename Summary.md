@@ -1,8 +1,7 @@
-
 # Finding Model Countries for Renewable Energy Use
 
 ## Tableau Story
-https://public.tableau.com/profile/michael.gysel#!/vizhome/SustainableEnergyforAll/ModelCountriesforRenewableEnergyUse?publish=yes
+The Tableau Story is published <a href='https://public.tableau.com/profile/michael.gysel#!/vizhome/SustainableEnergyforAll/ModelCountriesforRenewableEnergyUse?publish=yes'>here</a>.
 
 ## Summary
 
@@ -10,7 +9,7 @@ To determine countries whose renewable energy use could be modeled, each country
 
 ## Design
 
-Global energy use, population, and income data was utilized to determine countries with high per capita renewable energy use and the highest increases in per capita renewable energy use (I will refer to these two metrics as renewable energy use). As a result, maps were used to visualize the global differences in renewable energy use and bar graphs were used to visualize the countries with the highest renewable energy use. Interactive features for geographic region and income level were used in the final graphic to narrow the visualization to countries of specific geographic/income attributes. Because maps were used, color encodings were used to display the relative renewable energy use of each country. While I initially just used map visualizations, feedback included the difficulty of visualizing the top-5 countries by renewable energy use. As a result, I decided to include supporting bar graphs, where coloring each bar by geographic region or income level clearly displayed the attributes of countries with the highest renewable energy use. 
+Global energy use, population, and income data was utilized to determine countries with high per capita renewable energy use and the highest increases in per capita renewable energy use (I will refer to these two metrics as renewable energy use). As a result, maps were used to visualize the global differences in renewable energy use and bar graphs were used to visualize the countries with the highest renewable energy use. Interactive features for geographic region and income level were used in the final graphic to narrow the visualization to countries of specific geographic/income attributes. Because maps were used, color encodings were used to display the relative renewable energy use of each country. While I initially just used map visualizations, feedback included the difficulty of visualizing the top-5 countries by renewable energy use. As a result, I decided to include supporting bar graphs, where coloring each bar by geographic region or income level clearly displayed the attributes of countries with the highest renewable energy use. The original Tableau Story can be found <a href='https://public.tableau.com/profile/michael.gysel#!/vizhome/SustainableEnergyforAll--BeforeFeedback/ChangeEnergyShare?publish=yes'>here</a>.
 
 ## Feedback
 
