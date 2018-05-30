@@ -5,7 +5,7 @@
 The World Bank's Sustainable Energy For All (SE4All) Database provides country level historical data for access to electricity and non-solid fuel, share of renewable energy in total final energy consumption by technology, and energy intensity rate of improvement.
 
 The SE4All database can be found
-<a href='http://databank.worldbank.org/data/reports.aspx?source=sustainable-energy-for-all&Type=TABLE&preview=on#'>here</a>.
+<a href='http://databank.worldbank.org/data/reports.aspx?source=sustainable-energy-for-all&Type=TABLE&preview=on#' target='_blank'>here</a>.
 
 ## Summary
 
