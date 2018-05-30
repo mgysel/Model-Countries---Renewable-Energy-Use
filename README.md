@@ -4,15 +4,15 @@
 
 The World Bank's Sustainable Energy For All (SE4All) Database provides country level historical data for access to electricity and non-solid fuel, share of renewable energy in total final energy consumption by technology, and energy intensity rate of improvement.
 
-The SE4All database can be found at
-http://databank.worldbank.org/data/reports.aspx?source=sustainable-energy-for-all&Type=TABLE&preview=on#
+The SE4All database can be found
+<a href='http://databank.worldbank.org/data/reports.aspx?source=sustainable-energy-for-all&Type=TABLE&preview=on#'>here</a>.
 
 ## Summary
 
 To determine countries whose renewable energy use could be modeled, each country’s renewable energy share of total energy consumption in 2015 and total energy consumption in 2015 were mapped, revealing an inverse relationship between renewable energy share and total energy consumption. Each country’s per capita energy use in 2015 was then mapped with corresponding bar graphs coloring each country by geographic region and income level, revealing high income, European countries as having the highest per capita energy use in the world. Because high income, European countries might not be relevant models to most of the world, a final map displaying each country’s change in per capita energy use between 1990 and 2015 was created, with interactive geographic region and income level features. This final map allows for any country to search for countries with similar levels of income and/or of similar geographic region in order to determine countries of similar circumstances that increased per capita renewable energy use. 
 
-The data visualizations can be found at:
-https://public.tableau.com/profile/michael.gysel#!/vizhome/SustainableEnergyforAll/ModelCountriesforRenewableEnergyUse?publish=yes
+The data visualizations can be found 
+<a href='https://public.tableau.com/profile/michael.gysel#!/vizhome/SustainableEnergyforAll/ModelCountriesforRenewableEnergyUse?publish=yes'>here</a>.
 
 ## Design
 
