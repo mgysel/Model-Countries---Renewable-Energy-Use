@@ -12,7 +12,7 @@ The SE4All database can be found
 To determine countries whose renewable energy use could be modeled, each country’s renewable energy share of total energy consumption in 2015 and total energy consumption in 2015 were mapped, revealing an inverse relationship between renewable energy share and total energy consumption. Each country’s per capita energy use in 2015 was then mapped with corresponding bar graphs coloring each country by geographic region and income level, revealing high income, European countries as having the highest per capita energy use in the world. Because high income, European countries might not be relevant models to most of the world, a final map displaying each country’s change in per capita energy use between 1990 and 2015 was created, with interactive geographic region and income level features. This final map allows for any country to search for countries with similar levels of income and/or of similar geographic region in order to determine countries of similar circumstances that increased per capita renewable energy use. 
 
 The data visualizations can be found 
-<a href='https://public.tableau.com/profile/michael.gysel#!/vizhome/SustainableEnergyforAll/ModelCountriesforRenewableEnergyUse?publish=yes'>here</a>.
+<a href='https://public.tableau.com/profile/michael.gysel#!/vizhome/SustainableEnergyforAll/ModelCountriesforRenewableEnergyUse?publish=yes' target='_blank'>here</a>.
 
 ## Design
 
