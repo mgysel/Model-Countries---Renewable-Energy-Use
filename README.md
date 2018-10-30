@@ -18,10 +18,6 @@ The data visualizations can be found
 
 Global energy use, population, and income data was utilized to determine countries with high per capita renewable energy use and the highest increases in per capita renewable energy use (I will refer to these two metrics as renewable energy use). As a result, maps were used to visualize the global differences in renewable energy use and bar graphs were used to visualize the countries with the highest renewable energy use. Interactive features for geographic region and income level were used in the final graphic to narrow the visualization to countries of specific geographic/income attributes. Because maps were used, color encodings were used to display the relative renewable energy use of each country. While I initially just used map visualizations, feedback included the difficulty of visualizing the top-5 countries by renewable energy use. As a result, I decided to include supporting bar graphs, where coloring each bar by geographic region or income level clearly displayed the attributes of countries with the highest renewable energy use. 
 
-## Feedback
-
-As discussed above, the main feedback I received was the difficulty in viewing the top-5 countries by renewable energy use. The second piece of feedback I received related to the first sheet of the story, where I did not initially include the second map of total energy consumption in 2015, by country. While it is somewhat clear from the first map that countries with the highest renewable energy share also use the least energy, the second map makes this observation much clearer.
-
 ## Python Libraries: The code in this repository assumes the following Python libraries are installed:
 * numpy
 * pandas
